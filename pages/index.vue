@@ -1,13 +1,15 @@
 <template>
   <!-- <Tutorial/> -->
   <div>
-    <div class="main-section d-flex justify-content-between">
+    <div class="main-section">
+      <div class="container d-flex justify-content-between">
       <div class="m-auto">
 <h1>A simple quiz app</h1>
 <h2 >Select from various categories</h2>
 </div>
 <div>
-  <img src="@/assets/images/home-section.png">
+  <img class="d-none d-md-block" src="@/assets/images/home-section.png">
+</div>
 </div>
     </div>
     <div>
